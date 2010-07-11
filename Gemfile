@@ -21,4 +21,4 @@ gem "rspec_hpricot_matchers", "1.0", :group => "test"
 gem "test-unit", "1.2.3"
 
 # Padrino
-gem 'padrino', "0.9.9"
+gem 'padrino', "0.9.14"

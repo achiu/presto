@@ -1,7 +1,8 @@
 class Presto < Padrino::Application
   configure do
     register SassInitializer
-
+    register Padrino::Helpers
+    
     ##
     # Application-specific configuration options
     #
